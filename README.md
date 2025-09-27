@@ -3,7 +3,7 @@ Aplicacion para la evaluacion 1 de mapeo Objeto/relacional
 Proyecto en **Java** que gestiona información de partidos, equipos, jugadores y goleadores de la ChampionsMx.  
 La aplicación sigue una arquitectura organizada en capas para separar responsabilidades.
 
----
+```
 ## Estructura del proyecto
 ChampionsMx
 │
@@ -21,7 +21,7 @@ ChampionsMx
 │ └── VistaPrincipal # Pantalla principal de la aplicación
 ├── Main.java # Clase principal para iniciar la aplicación
 └── ChampionsMx.iml # Archivo de configuración del proyecto en IntelliJ
----
+```
 ## Librerias necesarias
 mariadb-java-client-3.5.6  Driver para poder establecer conexión con la base de datos
 
